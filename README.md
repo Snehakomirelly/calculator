@@ -46,4 +46,4 @@ Run index.html in any web browser
 =======
 # calculator
 Responsive calculator web application with basic operations and modern UI built using HTML, CSS, and JavaScript.
->>>>>>> caac6502364fe95228072c953e0886d7d76e641e
+
